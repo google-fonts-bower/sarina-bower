@@ -1,0 +1,17 @@
+{
+    "name": "sarina-googlefont",
+    "license": "OFL",
+    "authors": [
+        "James Grieshaber"
+    ],
+    "homepage": "https://fonts.google.com/",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/google-fonts-bower/sarina-bower.git"
+    },
+    "description": "Sarina font",
+    "keywords": [
+        "font",
+        "DISPLAY"
+    ]
+}
